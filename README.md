@@ -1,2 +1,3 @@
 # -Logistic-container-with-environmental-monitoring-and-control-system-
 The purpose of this project is to monitor perishable goods while in transit and also maintain the environment within the container to ensure that the perishable goods do not get spoiled. The system checks for alcohol levels within the container, humidity, temperarure of the product and temperature within the container. All of which are factors that can be used to indicate when perishable goods are going bad. 
+The system was constructed and run on arduino uno microcontroller, DHT11 HUmidity and temp sensor, tmp36 temp sensor, MQ alcohol sensor and a single channel relay to turn the fan on and off. 
